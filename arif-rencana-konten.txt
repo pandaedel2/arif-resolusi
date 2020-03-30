@@ -3,7 +3,8 @@ RENCANA KONTEN ARIF
 -JAVASCRIPT
 *ES 6
 *frameworks javasript
-*Vue
+  -Vue
+  -react
 -Struktur data dasar
 -PHP FRAMEWORKS
 *Laravel
